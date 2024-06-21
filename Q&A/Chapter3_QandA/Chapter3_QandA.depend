@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1666448108 source:c:\users\serkansaritas\downloads\chapter3_qanda\main.cpp
+	<iostream>
+	<chrono>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1698836400 source:c:\users\eozka\desktop\chapter3_qanda\main.cpp
+	<iostream>
+	<chrono>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

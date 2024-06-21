@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666992573 source:c:\users\serkansaritas\downloads\chap5_dynmem\main.cpp
+	<iostream>
+	"DynamicClass.hpp"
+
+1666992934 c:\users\serkansaritas\downloads\chap5_dynmem\dynamicclass.hpp
+
+1700745678 source:c:\users\eozka\desktop\ee441\chapter5_source_code\main.cpp
+	<iostream>
+	"DynamicClass.hpp"
+
+1700745678 c:\users\eozka\desktop\ee441\chapter5_source_code\dynamicclass.hpp
+

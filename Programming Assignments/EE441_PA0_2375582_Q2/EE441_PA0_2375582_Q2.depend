@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697471937 source:c:\users\eozka\desktop\ee441\ee441_pa0_2375582_q2\main.c
+	<stdio.h>
+
+1697473067 source:c:\users\eozka\desktop\ee441\ee441_pa0_2375582_q2\question2.c
+	<stdio.h>
+	<string.h>
+	"Question2.h"
+
+1697473065 c:\users\eozka\desktop\ee441\ee441_pa0_2375582_q2\question2.h
+	<stdio.h>
+	<string.h>
+

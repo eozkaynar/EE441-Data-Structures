@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698512539 source:c:\users\eozka\desktop\ee441\general_stack_class_declaration\stack.cpp
+	<iostream>
+	"stack.hpp"
+
+1698513207 c:\users\eozka\desktop\ee441\general_stack_class_declaration\stack.hpp
+	<iostream>
+
+1698513224 source:c:\users\eozka\desktop\ee441\general_stack_class_declaration\main.cpp
+	<iostream>
+	"stack.hpp"
+

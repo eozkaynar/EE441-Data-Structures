@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1666533978 source:c:\users\serkansaritas\downloads\stacksqueues\main.cpp
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+
+1666533442 c:\users\serkansaritas\downloads\stacksqueues\queue.hpp
+
+1666533445 c:\users\serkansaritas\downloads\stacksqueues\stack.hpp
+
+1666533878 source:c:\users\serkansaritas\downloads\stacksqueues\queue.cpp
+	"Queue.hpp"
+	<iostream>
+
+1666533870 source:c:\users\serkansaritas\downloads\stacksqueues\stack.cpp
+	"Stack.hpp"
+	<iostream>
+
+1666533878 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\queue.cpp
+	"Queue.hpp"
+	<iostream>
+
+1666533442 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\queue.hpp
+
+1666533870 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\stack.cpp
+	"Stack.hpp"
+	<iostream>
+
+1666533445 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\stack.hpp
+
+1666534300 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\main.cpp
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+
+1698691553 source:c:\users\eozka\desktop\chapter4_source_code\stacksqueues\main.cpp
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+
+1698502817 c:\users\eozka\desktop\chapter4_source_code\stacksqueues\queue.hpp
+
+1698502817 c:\users\eozka\desktop\chapter4_source_code\stacksqueues\stack.hpp
+
+1698502817 source:c:\users\eozka\desktop\chapter4_source_code\stacksqueues\queue.cpp
+	"Queue.hpp"
+	<iostream>
+
+1698590014 source:c:\users\eozka\desktop\chapter4_source_code\stacksqueues\stack.cpp
+	"Stack.hpp"
+	<iostream>
+

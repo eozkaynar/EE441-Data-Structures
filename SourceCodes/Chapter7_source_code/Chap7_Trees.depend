@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1666533878 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\queue.cpp
+	"Queue.hpp"
+	<iostream>
+
+1668241265 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\queue.hpp
+	<iostream>
+
+1666533870 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\stack.cpp
+	"Stack.hpp"
+	<iostream>
+
+1668241252 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\stack.hpp
+	<iostream>
+
+1668324838 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\main.cpp
+	<iostream>
+	"treelib.hpp"
+	"treenode.hpp"
+	"treescan.hpp"
+	"treeprnt.hpp"
+
+1668361374 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\treelib.hpp
+	<iostream>
+	"treenode.hpp"
+
+1668234788 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\treenode.hpp
+
+1668361339 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\treescan.hpp
+	"treenode.hpp"
+	"queue.hpp"
+	"stack.hpp"
+
+1668279601 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter7_source_code\treeprnt.hpp
+	<iostream>
+	<iomanip>
+	<cctype>
+	"treenode.hpp"
+	"queue.hpp"
+

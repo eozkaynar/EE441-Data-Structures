@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697108864 source:c:\users\eozka\desktop\ee441\qanda_1\recitation1\vehicle.cpp
+	"vehicle.hpp"
+
+1697397315 c:\users\eozka\desktop\ee441\qanda_1\recitation1\vehicle.hpp
+	<iostream>
+	<stdio.h>
+
+1697397459 source:c:\users\eozka\desktop\ee441\qanda_1\recitation1\main.cpp
+	<iostream>
+	<stdio.h>
+	"vehicle.hpp"
+

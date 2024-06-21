@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1607573670 source:d:\completed\uni\activelectures\ee441\programming\ee441_treesum\main.cpp
+	<iostream>
+
+1668241252 
+
+1607573786 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\ee441_klaushoca\ee441_some_code\ee441_treesum\main.cpp
+	<iostream>
+
+1668936371 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\recitations\chapter7_qanda\main.cpp
+	<iostream>
+	"treelib.hpp"
+	"treenode.hpp"
+	"treescan.hpp"
+	"treeprnt.hpp"
+
+1668361374 hpp"
+
+1668361374 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\recitations\chapter7_qanda\treelib.hpp
+	<iostream>
+	"treenode.hpp"
+
+1668234788 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\recitations\chapter7_qanda\treenode.hpp
+
+1668361339 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\recitations\chapter7_qanda\treescan.hpp
+	"treenode.hpp"
+	"queue.hpp"
+	"stack.hpp"
+
+1668279601 "
+
+1668241265 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\recitations\chapter7_qanda\queue.hpp
+	<iostream>
+
+1668241252 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\recitations\chapter7_qanda\stack.hpp
+	<iostream>
+
+1668279601 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\recitations\chapter7_qanda\treeprnt.hpp
+	<iostream>
+	<iomanip>
+	<cctype>
+	"treenode.hpp"
+	"queue.hpp"
+
+1668936371 source:/home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter7_QandA/main.cpp
+	<iostream>
+	"treelib.hpp"
+	"treenode.hpp"
+	"treescan.hpp"
+	"treeprnt.hpp"
+
+1700148353 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter7_QandA/treelib.hpp
+	<iostream>
+	"treenode.hpp"
+	<climits>
+
+1668234788 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter7_QandA/treenode.hpp
+
+1700148291 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter7_QandA/treescan.hpp
+	"treenode.hpp"
+	"Queue.hpp"
+	"Stack.hpp"
+
+1668241265 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter7_QandA/Queue.hpp
+	<iostream>
+
+1668241252 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter7_QandA/Stack.hpp
+	<iostream>
+
+1700148298 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter7_QandA/treeprnt.hpp
+	<iostream>
+	<iomanip>
+	<cctype>
+	"treenode.hpp"
+	"Queue.hpp"
+

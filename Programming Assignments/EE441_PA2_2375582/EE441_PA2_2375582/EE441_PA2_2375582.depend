@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1702052750 source:c:\users\eozka\desktop\ee441\ee441_pa2_2375582\ee441_pa2_2375582\main.cpp
+	<iostream>
+	"Token.hpp"
+	"TokenList.hpp"
+	<string>
+	<string.h>
+	"Node.hpp"
+	"SyntaxTree.hpp"
+	"FunctionLib.hpp"
+
+1702052688 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\ee441_pa2_2375582\token.hpp
+
+1702052554 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\ee441_pa2_2375582\tokenlist.hpp
+	"Token.hpp"
+
+1702052554 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\ee441_pa2_2375582\node.hpp
+
+1702052777 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\ee441_pa2_2375582\syntaxtree.hpp
+	"Node.hpp"
+
+1702052826 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\ee441_pa2_2375582\functionlib.hpp
+

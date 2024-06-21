@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697475502 source:c:\users\eozka\desktop\ee441\ee441_pa0_2375582_q3\fizzbuzz.cpp
+	<iostream>
+	"FizzBuzz.hpp"
+
+1697474665 c:\users\eozka\desktop\ee441\ee441_pa0_2375582_q3\fizzbuzz.hpp
+	<iostream>
+
+1697474993 source:c:\users\eozka\desktop\ee441\ee441_pa0_2375582_q3\main.cpp
+	<iostream>
+	"FizzBuzz.hpp"
+

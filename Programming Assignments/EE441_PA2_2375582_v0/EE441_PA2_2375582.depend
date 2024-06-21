@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1701722890 source:c:\users\eozka\desktop\ee441\ee441_pa2_2375582\token.cpp
+	"Token.hpp"
+	<iostream>
+
+1701722867 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\token.hpp
+
+1701722918 source:c:\users\eozka\desktop\ee441\ee441_pa2_2375582\tokenlist.cpp
+	"TokenList.hpp"
+
+1701722388 source:c:\users\eozka\desktop\ee441\ee441_pa2_2375582\main.cpp
+	<iostream>
+	"TokenNew.hpp"
+	"TokenListNew.hpp"
+	"TokenListLib.hpp"
+	"Node.hpp"
+	"Treelib.hpp"
+	<string>
+	<string.h>
+
+1701722900 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\tokenlist.hpp
+	"Token.hpp"
+	<iostream>
+
+1701722969 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\tokenlistlib.hpp
+	<iostream>
+	"TokenList.hpp"
+
+1701721976 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\node.hpp
+
+1701717488 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\treelib.hpp
+	"Node.hpp"
+
+1701725483 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\tokennew.hpp
+	<iostream>
+
+1701763813 c:\users\eozka\desktop\ee441\ee441_pa2_2375582\tokenlistnew.hpp
+	<iostream>
+	"TokenNew.hpp"
+
+1701723250 source:c:\users\eozka\desktop\ee441\ee441_pa2_2375582\mainnew.cpp
+	<iostream>
+	"TokenNew.hpp"
+	"TokenListNew.hpp"
+	"TokenListLib.hpp"
+	"Node.hpp"
+	"Treelib.hpp"
+	<string>
+	<string.h>
+

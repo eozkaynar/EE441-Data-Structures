@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1701072823 source:c:\users\eozka\desktop\ee441\chapter6_linkedlist\linkedlist\main.cpp
+	<iostream>
+	"Node.hpp"
+	"NodeLib.hpp"
+	"random.hpp"
+
+1701023636 c:\users\eozka\desktop\ee441\chapter6_linkedlist\linkedlist\node.hpp
+
+1701072870 c:\users\eozka\desktop\ee441\chapter6_linkedlist\linkedlist\nodelib.hpp
+	<iostream>
+	"Node.hpp"
+
+1701023601 c:\users\eozka\desktop\ee441\chapter6_linkedlist\linkedlist\random.hpp
+	<time.h>
+

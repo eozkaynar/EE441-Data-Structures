@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1665477364 source:c:\users\schmidt\desktop\ee441\vehicle\vehicle.cpp
+	"Vehicle.hpp"
+
+1696537558 pp"
+
+1665477884 source:c:\users\schmidt\desktop\ee441\vehicle\main.cpp
+	"Vehicle.hpp"
+
+1665477870 c:\users\schmidt\desktop\ee441\vehicle\vehicle.hpp
+	<iostream>
+	<stdio.h>
+
+1696537571 
+
+1665477886 source:d:\completed\uni\activelectures\ee441\2022-23\qandaprojects\chapter1_vehicle_section3\main.cpp
+	"Vehicle.hpp"
+
+1665477872 d:\completed\uni\activelectures\ee441\2022-23\qandaprojects\chapter1_vehicle_section3\vehicle.hpp
+	<iostream>
+	<stdio.h>
+
+1665477992 source:d:\completed\uni\activelectures\ee441\2022-23\qandaprojects\chapter1_vehicle_section3\vehicle.cpp
+	"Vehicle.hpp"
+
+1665477886 source:d:\completed\uni\activelectures\ee441\2022-23\qandaprojects\chapter1_vehicle\main.cpp
+	"Vehicle.hpp"
+
+1665477872 d:\completed\uni\activelectures\ee441\2022-23\qandaprojects\chapter1_vehicle\vehicle.hpp
+	<iostream>
+	<stdio.h>
+
+1665477992 source:d:\completed\uni\activelectures\ee441\2022-23\qandaprojects\chapter1_vehicle\vehicle.cpp
+	"Vehicle.hpp"
+
+1665477886 source:/home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2022 RECITATION/Chapter1_Vehicle/main.cpp
+	"Vehicle.hpp"
+
+1665477872 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2022 RECITATION/Chapter1_Vehicle/Vehicle.hpp
+	<iostream>
+	<stdio.h>
+
+1696511313 source:/home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2022 RECITATION/Chapter1_Vehicle/Vehicle.cpp
+	"Vehicle.hpp"
+
+1696534051 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\ee441 data structures\2023 recitation\chapter1_qanda\main.cpp
+	"Vehicle.hpp"
+
+1696683663 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\ee441 data structures\2023 recitation\chapter1_qanda\vehicle.hpp
+	<iostream>
+	<stdio.h>
+
+1696683669 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\ee441 data structures\2023 recitation\chapter1_qanda\vehicle.cpp
+	"Vehicle.hpp"
+
+1696534051 source:/home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter1_QandA/main.cpp
+	"Vehicle.hpp"
+
+1696537878 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter1_QandA/Vehicle.hpp
+	<iostream>
+	<stdio.h>
+
+1696537558 source:/home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter1_QandA/Vehicle.cpp
+	"Vehicle.hpp"
+
+1697044859 source:c:\users\eozka\desktop\ee441\chapter1_qanda\main.cpp
+	"Vehicle.hpp"
+
+1697044859 c:\users\eozka\desktop\ee441\chapter1_qanda\vehicle.hpp
+	<iostream>
+	<stdio.h>
+
+1697044859 source:c:\users\eozka\desktop\ee441\chapter1_qanda\vehicle.cpp
+	"Vehicle.hpp"
+

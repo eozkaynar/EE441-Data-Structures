@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1667576137 source:/home/serkan/OneDrive/METU/2022-2023 FALL/EE441 Data Structures/Lecture Slides/Chapter6_Preparation/Chap6_LinkedLists/main.cpp
+	<iostream>
+	"Node.hpp"
+	"CNode.hpp"
+	"DNode.hpp"
+	"random.hpp"
+
+1667577201 /home/serkan/OneDrive/METU/2022-2023 FALL/EE441 Data Structures/Lecture Slides/Chapter6_Preparation/Chap6_LinkedLists/Node.hpp
+
+1583398300 /home/serkan/OneDrive/METU/2022-2023 FALL/EE441 Data Structures/Lecture Slides/Chapter6_Preparation/Chap6_LinkedLists/CNode.hpp
+
+1667576719 /home/serkan/OneDrive/METU/2022-2023 FALL/EE441 Data Structures/Lecture Slides/Chapter6_Preparation/Chap6_LinkedLists/DNode.hpp
+
+1583398316 /home/serkan/OneDrive/METU/2022-2023 FALL/EE441 Data Structures/Lecture Slides/Chapter6_Preparation/Chap6_LinkedLists/random.hpp
+	<time.h>
+
+1667629817 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_preparation\chap6_linkedlists\main.cpp
+	<iostream>
+	"Node.hpp"
+	"NodeLib.hpp"
+	"CNode.hpp"
+	"DNode.hpp"
+	"random.hpp"
+
+1667629223 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_preparation\chap6_linkedlists\node.hpp
+
+1667629836 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_preparation\chap6_linkedlists\nodelib.hpp
+	<iostream>
+	"Node.hpp"
+
+1583398300 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_preparation\chap6_linkedlists\cnode.hpp
+
+1667576719 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_preparation\chap6_linkedlists\dnode.hpp
+
+1583398316 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_preparation\chap6_linkedlists\random.hpp
+	<time.h>
+
+1667804921 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_source_code\main.cpp
+	<iostream>
+	"Node.hpp"
+	"NodeLib.hpp"
+	"CNode.hpp"
+	"DNode.hpp"
+	"random.hpp"
+
+1667629223 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_source_code\node.hpp
+
+1667804967 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_source_code\nodelib.hpp
+	<iostream>
+	"Node.hpp"
+
+1667727434 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_source_code\cnode.hpp
+
+1667727426 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_source_code\dnode.hpp
+
+1583398316 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter6_source_code\random.hpp
+	<time.h>
+

@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1667154339 source:c:\users\serkansaritas\downloads\stacksqueues\main.cpp
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+
+1666534300 
+
+1667153873 c:\users\serkansaritas\downloads\stacksqueues\queue.hpp
+	<iostream>
+
+1667153828 c:\users\serkansaritas\downloads\stacksqueues\stack.hpp
+	<iostream>
+
+1666533878 source:c:\users\serkansaritas\downloads\stacksqueues\queue.cpp
+	"Queue.hpp"
+	<iostream>
+
+1666533870 source:c:\users\serkansaritas\downloads\stacksqueues\stack.cpp
+	"Stack.hpp"
+	<iostream>
+
+1666533878 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\queue.cpp
+	"Queue.hpp"
+	<iostream>
+
+1666533442 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\queue.hpp
+
+1666533870 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\stack.cpp
+	"Stack.hpp"
+	<iostream>
+
+1666533445 c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\stack.hpp
+
+1666534300 source:c:\users\serkansaritas\onedrive - metu.edu.tr\metu\2022-2023 fall\ee441 data structures\lecture slides\chapter4_source_code\stacksqueues\main.cpp
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+
+1698763727 source:/home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter4_QandA/main.cpp
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+
+1667153873 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter4_QandA/Queue.hpp
+	<iostream>
+
+1667153828 /home/serkan/OneDrive/METU/EE441 DATA STRUCTURES/2023 RECITATION/Chapter4_QandA/Stack.hpp
+	<iostream>
+
+1698916958 source:c:\users\eozka\desktop\chapter4_qanda\main.cpp
+	"Queue.hpp"
+	"Stack.hpp"
+	<iostream>
+
+1698916958 c:\users\eozka\desktop\chapter4_qanda\queue.hpp
+	<iostream>
+
+1698916958 c:\users\eozka\desktop\chapter4_qanda\stack.hpp
+	<iostream>
+

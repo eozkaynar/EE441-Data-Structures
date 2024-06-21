@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699371889 source:/home/serkan/Downloads/Q4/main.cpp
+	"X.hpp"
+	<iostream>
+
+1699371579 /home/serkan/Downloads/Q4/X.hpp
+
+1699371815 source:/home/serkan/Downloads/Q4/X.cpp
+	"X.hpp"
+
+1700989315 source:c:\users\eozka\desktop\ee441\chapter5_qanda\q4\main.cpp
+	"X.hpp"
+	<iostream>
+
+1700989315 c:\users\eozka\desktop\ee441\chapter5_qanda\q4\x.hpp
+

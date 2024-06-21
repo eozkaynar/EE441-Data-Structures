@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699261814 source:c:\users\eozka\desktop\ee441\array\main.cpp
+	"panoi.hpp"
+	<iostream>
+
+1699259353 c:\users\eozka\desktop\ee441\array\panoi.hpp
+	"array.hpp"
+
+1699259957 c:\users\eozka\desktop\ee441\array\array.hpp
+	<iostream>
+
+1699260461 source:c:\users\eozka\desktop\ee441\array\panoi.cpp
+	"panoi.hpp"
+

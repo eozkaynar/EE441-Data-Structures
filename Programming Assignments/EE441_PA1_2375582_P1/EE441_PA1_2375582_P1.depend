@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1699210571 source:c:\users\eozka\desktop\ee441\ee441_pa1_2375582_p1\main.cpp
+	"operation_queue.hpp"
+	<iostream>
+	<ostream>
+
+1698693825 c:\users\eozka\desktop\ee441\ee441_pa1_2375582_p1\operation_queue.hpp
+	<iostream>
+	<stdio.h>
+
+1698694019 source:c:\users\eozka\desktop\ee441\ee441_pa1_2375582_p1\operation_queue.cpp
+	"operation_queue.hpp"
+	<iostream>
+	<cmath>
+
+1698687769 c:\users\eozka\desktop\ee441\ee441_pa1_2375582_p1\operation_queue.cpp
+	"operation_queue.hpp"
+	<iostream>
+	<cmath>
+
